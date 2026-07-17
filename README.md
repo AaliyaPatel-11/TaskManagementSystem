@@ -150,19 +150,19 @@ http://localhost:5173
 
 ### Dashboard
 
-![alt text](image.png)
+![alt text](screenshots/image.png)
 
 ### Add Task
 
-![alt text](image-1.png)
+![alt text](screenshots/image-1.png)
 
 ### Edit Task
 
-![alt text](image-2.png)
+![alt text](screenshots/image-2.png)
 
 ### Delete Task
 
-![alt text](image-3.png)
+![alt text](screenshots/image-3.png)
 
 ---
 
