@@ -10,7 +10,8 @@ import java.util.List;
 
 @CrossOrigin(origins = {
     "http://localhost:5173",
-    "https://task-management-system-1mda9w22o.vercel.app"
+    "https://task-management-system-1mda9w22o.vercel.app",
+    "https://task-management-system-puce-mu.vercel.app/"
 })
 @RestController
 @RequestMapping("/api/tasks")
