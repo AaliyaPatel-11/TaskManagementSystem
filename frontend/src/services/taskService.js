@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:8080/api/tasks';
+const API_URL = 'https://taskmanagementsystem-r67t.onrender.com/api/tasks';
 
 const taskService = {
   // Fetch all tasks
